@@ -3,9 +3,6 @@
 ## 🚀 À propos de moi  
 Je suis étudiant en **2ᵉ année de BUT Informatique** à Anglet, passionné par le **développement web**, le **développement logiciel**, la **création de jeux** et le **modding**. J’aime travailler sur des projets alliant **défis techniques** et **créativité**, notamment dans le **développement de sites internet**.  
 
-## 🤝 En recherche de...  
-- Un **stage de 8 à 10 semaines (du 7 avril au 13 juin 2025)** dans le **développement web ou logiciel**.  
-
 ## 👨‍💻 Projets en cours  
 - 📖 **Apprentissage de Laravel et Angular** au travers d'un site de vente de sauce piquante et d'un site de vente de CD.
 - 📚 **Approfondissement du PHP et de JavaScript** pour renforcer mes compétences en développement web, grâce à mon projet collaboratif TimeHarmony.
