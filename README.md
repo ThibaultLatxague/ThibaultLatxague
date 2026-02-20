@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis étudiant en **2ᵉ année de BUT Informatique** à Anglet, passionné par le **développement web**, le **développement logiciel**, la **création de jeux** et le **modding**. J'aime travailler sur des projets alliant **défis techniques** et **créativité**, notamment dans le **développement de sites internet**.
+Je suis étudiant en **1ère année d'ingénieur Réseaux et Informatique** à l,'ENSEIRB-MATMECA, à Talence. Passionné par le **développement web**, le **développement logiciel**, la **création de jeux** et le **modding**, j'aime travailler sur des projets alliant **défis techniques** et **créativité**, notamment dans le **développement de sites internet**.
 
 ## 👨‍💻 Projets en cours
 
@@ -22,23 +22,6 @@ Je suis étudiant en **2ᵉ année de BUT Informatique** à Anglet, passionné p
 - **LinkedIn** : [thibault-latxague-7a6a102b3](https://www.linkedin.com/in/thibault-latxague-7a6a102b3/)
 - **GitHub** : Tu es déjà ici ! N'hésite pas à explorer mes projets.
 - **Email** : thibault.latxague@gmail.com
-
----
-
-## 📊 Mes statistiques GitHub
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ThibaultLatxague&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultLatxague&layout=compact&theme=tokyonight&hide_border=true&locale=fr&langs_count=8" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThibaultLatxague&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🇬🇧 About me — English version
 
